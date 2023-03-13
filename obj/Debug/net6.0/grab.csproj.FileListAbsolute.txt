@@ -1,0 +1,15 @@
+C:\Users\MDT-516\Desktop\grab\bin\Debug\net6.0\grab.exe
+C:\Users\MDT-516\Desktop\grab\bin\Debug\net6.0\grab.deps.json
+C:\Users\MDT-516\Desktop\grab\bin\Debug\net6.0\grab.runtimeconfig.json
+C:\Users\MDT-516\Desktop\grab\bin\Debug\net6.0\grab.dll
+C:\Users\MDT-516\Desktop\grab\bin\Debug\net6.0\grab.pdb
+C:\Users\MDT-516\Desktop\grab\obj\Debug\net6.0\grab.csproj.AssemblyReference.cache
+C:\Users\MDT-516\Desktop\grab\obj\Debug\net6.0\grab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MDT-516\Desktop\grab\obj\Debug\net6.0\grab.AssemblyInfoInputs.cache
+C:\Users\MDT-516\Desktop\grab\obj\Debug\net6.0\grab.AssemblyInfo.cs
+C:\Users\MDT-516\Desktop\grab\obj\Debug\net6.0\grab.csproj.CoreCompileInputs.cache
+C:\Users\MDT-516\Desktop\grab\obj\Debug\net6.0\grab.dll
+C:\Users\MDT-516\Desktop\grab\obj\Debug\net6.0\refint\grab.dll
+C:\Users\MDT-516\Desktop\grab\obj\Debug\net6.0\grab.pdb
+C:\Users\MDT-516\Desktop\grab\obj\Debug\net6.0\grab.genruntimeconfig.cache
+C:\Users\MDT-516\Desktop\grab\obj\Debug\net6.0\ref\grab.dll
